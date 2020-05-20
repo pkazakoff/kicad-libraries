@@ -1,0 +1,2855 @@
+#
+$CMP C0603-10nF-50V-10%-X7R
+D CAP CER 10000PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K5RACTU
+$ENDCMP
+#
+$CMP C0603-100nF-16V-10%-X7R
+D CAP CER 0.1UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104K4RACTU
+$ENDCMP
+#
+$CMP C0603-100nF-50V-10%-X7R
+D CAP CER 0.1UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104K5RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-50V-10%-X7R
+D CAP CER 1000PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K5RACTU
+$ENDCMP
+#
+$CMP C0603-100nF-10V-10%-X7R
+D CAP CER 0.1UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104K8RACTU
+$ENDCMP
+#
+$CMP C0603-100nF-50V-20%-X7R
+D CAP CER 0.1UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104M5RACTU
+$ENDCMP
+#
+$CMP C0603-100nF-25V-10%-X7R
+D CAP CER 0.1UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104K3RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-50V-5%-C0G_NP0
+D CAP CER 100PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101J5GACTU
+$ENDCMP
+#
+$CMP C0603-10nF-50V-5%-X7R
+D CAP CER 10000PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103J5RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-50V-5%-C0G_NP0
+D CAP CER 1000PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J5GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-16V-10%-X5R
+D CAP CER 1UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K4PACTU
+$ENDCMP
+#
+$CMP C0603-100nF-16V-5%-X7R
+D CAP CER 0.1UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104J4RACTU
+$ENDCMP
+#
+$CMP C0603-4.7uF-6.3V-10%-X5R
+D CAP CER 4.7UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C475K9PACTU
+$ENDCMP
+#
+$CMP C0603-470nF-16V-10%-X7R
+D CAP CER 0.47UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474K4RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-50V-10%-X7R
+D CAP CER 100PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101K5RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-16V-10%-X7R
+D CAP CER 10000PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K4RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-25V-1%-C0G_NP0
+D CAP CER 1000PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102F3GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-25V-10%-X7R
+D CAP CER 1UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K3RACTU
+$ENDCMP
+#
+$CMP C0603-4.7uF-10V-20%-X5R
+D CAP CER 4.7UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C475M8PACTU
+$ENDCMP
+#
+$CMP C0603-220pF-50V-1%-C0G_NP0
+D CAP CER 220PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221F5GACTU
+$ENDCMP
+#
+$CMP C0603-330nF-16V-10%-X7R
+D CAP CER 0.33UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C334K4RACTU
+$ENDCMP
+#
+$CMP C0603-4.7uF-10V-10%-X5R
+D CAP CER 4.7UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C475K8PACTU
+$ENDCMP
+#
+$CMP C0603-10nF-200V-10%-X7R
+D CAP CER 10000PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K2RACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-200V-10%-X7R
+D CAP CER 3300PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332K2RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-25V-5%-C0G_NP0
+D CAP CER 10000PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103J3GACTU
+$ENDCMP
+#
+$CMP C0603-3nF-50V-10%-C0G_NP0
+D CAP CER 3000PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C302K5GACTU
+$ENDCMP
+#
+$CMP C0603-47nF-100V-10%-X7R
+D CAP CER 0.047UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473K1RACTU
+$ENDCMP
+#
+$CMP C0603-100nF-25V-5%-X7R
+D CAP CER 0.1UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104J3RACTU
+$ENDCMP
+#
+$CMP C0603-15nF-25V-5%-C0G_NP0
+D CAP CER 0.015UF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153J3GACTU
+$ENDCMP
+#
+$CMP C0603-220nF-16V-10%-X7R
+D CAP CER 0.22UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224K4RACTU
+$ENDCMP
+#
+$CMP C0603-5.6nF-50V-5%-X7R
+D CAP CER 5600PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C562J5RACTU
+$ENDCMP
+#
+$CMP C0603-10uF-6.3V-20%-X5R
+D CAP CER 10UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C106M9PACTU
+$ENDCMP
+#
+$CMP C0603-5.1nF-50V-5%-C0G_NP0
+D CAP CER 5100PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C512J5GAC7867
+$ENDCMP
+#
+$CMP C0603-270nF-16V-10%-X7R
+D CAP CER 0.27UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C274K4RACTU
+$ENDCMP
+#
+$CMP C0603-220nF-25V-5%-X7R
+D CAP CER 0.22UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224J3RAC7867
+$ENDCMP
+#
+$CMP C0603-100nF-50V-5%-X7R
+D CAP CER 0.1UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104J5RACTU
+$ENDCMP
+#
+$CMP C0603-470nF-10V-10%-X7R
+D CAP CER 0.47UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474K8RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-50V-1%-C0G_NP0
+D CAP CER 100PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101F5GACTU
+$ENDCMP
+#
+$CMP C0603-220nF-16V-5%-X7R
+D CAP CER 0.22UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224J4RACTU
+$ENDCMP
+#
+$CMP C0603-470nF-16V-5%-X7R
+D CAP CER 0.47UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474J4RACTU
+$ENDCMP
+#
+$CMP C0603-22pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 22PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220D5GACTU
+$ENDCMP
+#
+$CMP C0603-15nF-16V-2%-C0G_NP0
+D CAP CER 0.015UF 16V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153G4GAC7867
+$ENDCMP
+#
+$CMP C0603-27pF-50V-1%-C0G_NP0
+D CAP CER 27PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C270F5GACTU
+$ENDCMP
+#
+$CMP C0603-120pF-50V-1%-C0G_NP0
+D CAP CER 120PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C121F5GACTU
+$ENDCMP
+#
+$CMP C0603-270pF-50V-1%-C0G_NP0
+D CAP CER 270PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C271F5GACTU
+$ENDCMP
+#
+$CMP C0603-680pF-50V-1%-C0G_NP0
+D CAP CER 680PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C681F5GACTU
+$ENDCMP
+#
+$CMP C0603-470pF-50V-1%-C0G_NP0
+D CAP CER 470PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471F5GACTU
+$ENDCMP
+#
+$CMP C0603-390pF-50V-1%-C0G_NP0
+D CAP CER 390PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C391F5GACTU
+$ENDCMP
+#
+$CMP C0603-820pF-50V-1%-C0G_NP0
+D CAP CER 820PF 50V C0G/NP0 0603
+F http:-
+$ENDCMP
+#
+$CMP C0603-1nF-50V-1%-C0G_NP0
+D CAP CER 1000PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102F5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-50V-1%-C0G_NP0
+D CAP CER 4700PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472F5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-25V-1%-C0G_NP0
+D CAP CER 4700PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472F3GACTU
+$ENDCMP
+#
+$CMP C0603-10nF-25V-1%-C0G_NP0
+D CAP CER 10000PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103F3GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-25V-1%-C0G_NP0
+D CAP CER 6800PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682F3GACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-50V-1%-C0G_NP0
+D CAP CER 1500PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152F5GACTU
+$ENDCMP
+#
+$CMP C0603-1nF-25V-10%-X7R
+D CAP CER 1000PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K3RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-16V-10%-X7R
+D CAP CER 1000PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K4RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-50V-20%-X7R
+D CAP CER 10000PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103M5RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-25V-20%-X7R
+D CAP CER 10000PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103M3RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-25V-10%-X7R
+D CAP CER 10000PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K3RACTU
+$ENDCMP
+#
+$CMP C0603-100nF-16V-20%-X7R
+D CAP CER 0.1UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104M4RACTU
+$ENDCMP
+#
+$CMP C0603-33pF-50V-5%-C0G_NP0
+D CAP CER 33PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C330J5GACTU
+$ENDCMP
+#
+$CMP C0603-33pF-100V-5%-C0G_NP0
+D CAP CER 33PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C330J1GACTU
+$ENDCMP
+#
+$CMP C0603-150pF-50V-5%-C0G_NP0
+D CAP CER 150PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C151J5GACTU
+$ENDCMP
+#
+$CMP C0603-22nF-100V-10%-X7R
+D CAP CER 0.022UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223K1RACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-50V-10%-X7R
+D CAP CER 2200PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222K5RACTU
+$ENDCMP
+#
+$CMP C0603-33pF-200V-5%-C0G_NP0
+D CAP CER 33PF 200V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C330J2GACTU
+$ENDCMP
+#
+$CMP C0603-100pF-50V-10%-C0G_NP0
+D CAP CER 100PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101K5GACTU
+$ENDCMP
+#
+$CMP C0603-10pF-50V-5%-C0G_NP0
+D CAP CER 10PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100J5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-50V-10%-X7R
+D CAP CER 4700PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K5RACTU
+$ENDCMP
+#
+$CMP C0603-47nF-16V-20%-X7R
+D CAP CER 0.047UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473M4RACTU
+$ENDCMP
+#
+$CMP C0603-56pF-50V-5%-C0G_NP0
+D CAP CER 56PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C560J5GACTU
+$ENDCMP
+#
+$CMP C0603-47pF-50V-5%-C0G_NP0
+D CAP CER 47PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470J5GACTU
+$ENDCMP
+#
+$CMP C0603-18pF-50V-5%-C0G_NP0
+D CAP CER 18PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180J5GACTU
+$ENDCMP
+#
+$CMP C0603-27pF-50V-5%-C0G_NP0
+D CAP CER 27PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C270J5GACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-50V-10%-X7R
+D CAP CER 1500PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152K5RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-25V-5%-C0G_NP0
+D CAP CER 1000PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J3GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-50V-5%-X7R
+D CAP CER 3300PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332J5RACTU
+$ENDCMP
+#
+$CMP C0603-15pF-50V-5%-C0G_NP0
+D CAP CER 15PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150J5GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-50V-10%-X7R
+D CAP CER 3300PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332K5RACTU
+$ENDCMP
+#
+$CMP C0603-47nF-16V-10%-X7R
+D CAP CER 0.047UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473K4RACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-50V-5%-X7R
+D CAP CER 4700PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472J5RACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-50V-10%-X7R
+D CAP CER 6800PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682K5RACTU
+$ENDCMP
+#
+$CMP C0603-1.2nF-50V-10%-X7R
+D CAP CER 1200PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C122K5RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-25V-10%-C0G_NP0
+D CAP CER 1000PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K3GACTU
+$ENDCMP
+#
+$CMP C0603-47nF-25V-10%-X7R
+D CAP CER 0.047UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473K3RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-50V-5%-X7R
+D CAP CER 1000PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J5RACTU
+$ENDCMP
+#
+$CMP C0603-22pF-50V-5%-C0G_NP0
+D CAP CER 22PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220J5GACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-50V-5%-X7R
+D CAP CER 2200PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222J5RACTU
+$ENDCMP
+#
+$CMP C0603-39pF-50V-5%-C0G_NP0
+D CAP CER 39PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C390J5GACTU
+$ENDCMP
+#
+$CMP C0603-100nF-25V-20%-X7R
+D CAP CER 0.1UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104M3RACTU
+$ENDCMP
+#
+$CMP C0603-47pF-100V-5%-C0G_NP0
+D CAP CER 47PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470J1GACTU
+$ENDCMP
+#
+$CMP C0603-22pF-100V-5%-C0G_NP0
+D CAP CER 22PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220J1GACTU
+$ENDCMP
+#
+$CMP C0603-100pF-100V-5%-C0G_NP0
+D CAP CER 100PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101J1GACTU
+$ENDCMP
+#
+$CMP C0603-68pF-50V-5%-C0G_NP0
+D CAP CER 68PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C680J5GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-10V-10%-X5R
+D CAP CER 1UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K8PACTU
+$ENDCMP
+#
+$CMP C0603-220pF-50V-5%-C0G_NP0
+D CAP CER 220PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221J5GACTU
+$ENDCMP
+#
+$CMP C0603-5.6pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 5.6PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C569C5GACTU
+$ENDCMP
+#
+$CMP C0603-120pF-50V-5%-C0G_NP0
+D CAP CER 120PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C121J5GACTU
+$ENDCMP
+#
+$CMP C0603-82pF-50V-5%-C0G_NP0
+D CAP CER 82PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C820J5GACTU
+$ENDCMP
+#
+$CMP C0603-12pF-50V-5%-C0G_NP0
+D CAP CER 12PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C120J5GACTU
+$ENDCMP
+#
+$CMP C0603-470pF-50V-10%-X7R
+D CAP CER 470PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471K5RACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-100V-10%-X7R
+D CAP CER 2200PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222K1RACTU
+$ENDCMP
+#
+$CMP C0603-330pF-50V-5%-C0G_NP0
+D CAP CER 330PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331J5GACTU
+$ENDCMP
+#
+$CMP C0603-22nF-50V-10%-X7R
+D CAP CER 0.022UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223K5RACTU
+$ENDCMP
+#
+$CMP C0603-22nF-25V-10%-X7R
+D CAP CER 0.022UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223K3RACTU
+$ENDCMP
+#
+$CMP C0603-220pF-25V-10%-X7R
+D CAP CER 220PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221K3RACTU
+$ENDCMP
+#
+$CMP C0603-220pF-50V-10%-X7R
+D CAP CER 220PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221K5RACTU
+$ENDCMP
+#
+$CMP C0603-470pF-25V-10%-X7R
+D CAP CER 470PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471K3RACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-25V-10%-X7R
+D CAP CER 4700PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K3RACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-16V-10%-X7R
+D CAP CER 2200PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222K4RACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-25V-10%-X7R
+D CAP CER 2200PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222K3RACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-16V-10%-X7R
+D CAP CER 4700PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K4RACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-10V-10%-X7R
+D CAP CER 4700PF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K8RACTU
+$ENDCMP
+#
+$CMP C0603-180pF-50V-5%-C0G_NP0
+D CAP CER 180PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C181J5GACTU
+$ENDCMP
+#
+$CMP C0603-1nF-50V-20%-X7R
+D CAP CER 1000PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102M5RACTU
+$ENDCMP
+#
+$CMP C0603-680pF-50V-10%-X7R
+D CAP CER 680PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C681K5RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-100V-10%-X7R
+D CAP CER 1000PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K1RACTU
+$ENDCMP
+#
+$CMP C0603-22nF-16V-10%-X7R
+D CAP CER 0.022UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223K4RACTU
+$ENDCMP
+#
+$CMP C0603-220pF-100V-5%-C0G_NP0
+D CAP CER 220PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221J1GACTU
+$ENDCMP
+#
+$CMP C0603-33nF-16V-10%-X7R
+D CAP CER 0.033UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333K4RACTU
+$ENDCMP
+#
+$CMP C0603-15nF-50V-10%-X7R
+D CAP CER 0.015UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153K5RACTU
+$ENDCMP
+#
+$CMP C0603-150pF-100V-5%-C0G_NP0
+D CAP CER 150PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C151J1GACTU
+$ENDCMP
+#
+$CMP C0603-33nF-25V-10%-X7R
+D CAP CER 0.033UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333K3RACTU
+$ENDCMP
+#
+$CMP C0603-820pF-50V-10%-X7R
+D CAP CER 820PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C821K5RACTU
+$ENDCMP
+#
+$CMP C0603-330pF-50V-10%-X7R
+D CAP CER 330PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331K5RACTU
+$ENDCMP
+#
+$CMP C0603-270pF-50V-5%-C0G_NP0
+D CAP CER 270PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C271J5GACTU
+$ENDCMP
+#
+$CMP C0603-10pF-100V-5%-C0G_NP0
+D CAP CER 10PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100J1GACTU
+$ENDCMP
+#
+$CMP C0603-68pF-100V-5%-C0G_NP0
+D CAP CER 68PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C680J1GACTU
+$ENDCMP
+#
+$CMP C0603-10pF-50V-10%-C0G_NP0
+D CAP CER 10PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100K5GACTU
+$ENDCMP
+#
+$CMP C0603-27pF-50V-10%-C0G_NP0
+D CAP CER 27PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C270K5GACTU
+$ENDCMP
+#
+$CMP C0603-47pF-25V-5%-C0G_NP0
+D CAP CER 47PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470J3GACTU
+$ENDCMP
+#
+$CMP C0603-39nF-16V-10%-X7R
+D CAP CER 0.039UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C393K4RACTU
+$ENDCMP
+#
+$CMP C0603-10pF-25V-10%-C0G_NP0
+D CAP CER 10PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100K3GACTU
+$ENDCMP
+#
+$CMP C0603-18pF-50V-10%-C0G_NP0
+D CAP CER 18PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180K5GACTU
+$ENDCMP
+#
+$CMP C0603-1.8nF-50V-10%-X7R
+D CAP CER 1800PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C182K5RACTU
+$ENDCMP
+#
+$CMP C0603-22pF-25V-10%-C0G_NP0
+D CAP CER 22PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220K3GACTU
+$ENDCMP
+#
+$CMP C0603-47pF-50V-10%-C0G_NP0
+D CAP CER 47PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470K5GACTU
+$ENDCMP
+#
+$CMP C0603-27pF-25V-5%-C0G_NP0
+D CAP CER 27PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C270J3GACTU
+$ENDCMP
+#
+$CMP C0603-100pF-25V-5%-C0G_NP0
+D CAP CER 100PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101J3GACTU
+$ENDCMP
+#
+$CMP C0603-220nF-6.3V-10%-X7R
+D CAP CER 0.22UF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224K9RACTU
+$ENDCMP
+#
+$CMP C0603-22nF-25V-5%-X7R
+D CAP CER 0.022UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223J3RACTU
+$ENDCMP
+#
+$CMP C0603-5.6nF-50V-10%-X7R
+D CAP CER 5600PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C562K5RACTU
+$ENDCMP
+#
+$CMP C0603-12nF-50V-10%-X7R
+D CAP CER 0.012UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C123K5RACTU
+$ENDCMP
+#
+$CMP C0603-47nF-50V-10%-X7R
+D CAP CER 0.047UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473K5RACTU
+$ENDCMP
+#
+$CMP C0603-68nF-25V-10%-X7R
+D CAP CER 0.068UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C683K3RACTU
+$ENDCMP
+#
+$CMP C0603-8.2nF-50V-10%-X7R
+D CAP CER 8200PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C822K5RACTU
+$ENDCMP
+#
+$CMP C0603-560pF-50V-5%-C0G_NP0
+D CAP CER 560PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561J5GACTU
+$ENDCMP
+#
+$CMP C0603-18nF-50V-10%-X7R
+D CAP CER 0.018UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C183K5RACTU
+$ENDCMP
+#
+$CMP C0603-470pF-50V-10%-C0G_NP0
+D CAP CER 470PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471K5GACTU
+$ENDCMP
+#
+$CMP C0603-2.7nF-50V-10%-X7R
+D CAP CER 2700PF 50V X7R 0603
+F http:-
+$ENDCMP
+#
+$CMP C0603-33nF-50V-10%-X7R
+D CAP CER 0.033UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333K5RACTU
+$ENDCMP
+#
+$CMP C0603-680pF-50V-5%-C0G_NP0
+D CAP CER 680PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C681J5GACTU
+$ENDCMP
+#
+$CMP C0603-390pF-50V-5%-C0G_NP0
+D CAP CER 390PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C391J5GACTU
+$ENDCMP
+#
+$CMP C0603-27nF-25V-10%-X7R
+D CAP CER 0.027UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C273K3RACTU
+$ENDCMP
+#
+$CMP C0603-68nF-50V-10%-X7R
+D CAP CER 0.068UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C683K5RACTU
+$ENDCMP
+#
+$CMP C0603-12nF-16V-10%-X7R
+D CAP CER 0.012UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C123K4RACTU
+$ENDCMP
+#
+$CMP C0603-3.9nF-50V-10%-X7R
+D CAP CER 3900PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C392K5RACTU
+$ENDCMP
+#
+$CMP C0603-220nF-10V-10%-X7R
+D CAP CER 0.22UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224K8RACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-100V-10%-X7R
+D CAP CER 3300PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332K1RACTU
+$ENDCMP
+#
+$CMP C0603-2.2uF-16V-10%-X5R
+D CAP CER 2.2UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225K4PACTU
+$ENDCMP
+#
+$CMP C0603-47nF-25V-5%-X7R
+D CAP CER 0.047UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473J3RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-100V-10%-X7R
+D CAP CER 10000PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K1RACTU
+$ENDCMP
+#
+$CMP C0603-470pF-50V-5%-X7R
+D CAP CER 470PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471J5RACTU
+$ENDCMP
+#
+$CMP C0603-470pF-100V-5%-C0G_NP0
+D CAP CER 470PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471J1GACTU
+$ENDCMP
+#
+$CMP C0603-330nF-10V-10%-X7R
+D CAP CER 0.33UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C334K8RACTU
+$ENDCMP
+#
+$CMP C0603-82nF-25V-10%-X7R
+D CAP CER 0.082UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C823K3RACTU
+$ENDCMP
+#
+$CMP C0603-150nF-16V-10%-X7R
+D CAP CER 0.15UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C154K4RACTU
+$ENDCMP
+#
+$CMP C0603-470nF-10V-10%-X5R
+D CAP CER 0.47UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474K8PACTU
+$ENDCMP
+#
+$CMP C0603-470nF-6.3V-10%-X5R
+D CAP CER 0.47UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474K9PACTU
+$ENDCMP
+#
+$CMP C0603-820pF-50V-5%-C0G_NP0
+D CAP CER 820PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C821J5GACTU
+$ENDCMP
+#
+$CMP C0603-220nF-25V-10%-X7R
+D CAP CER 0.22UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224K3RACTU
+$ENDCMP
+#
+$CMP C0603-150nF-50V-10%-X7R
+D CAP CER 0.15UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C154K5RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-200V-10%-X7R
+D CAP CER 1000PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K2RACTU
+$ENDCMP
+#
+$CMP C0603-1uF-25V-10%-X5R
+D CAP CER 1UF 25V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K3PACTU
+$ENDCMP
+#
+$CMP C0603-470pF-100V-10%-X7R
+D CAP CER 470PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471K1RACTU
+$ENDCMP
+#
+$CMP C0603-10pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 10PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100D5GACTU
+$ENDCMP
+#
+$CMP C0603-2pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C209C5GACTU
+$ENDCMP
+#
+$CMP C0603-3pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 3PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C309C5GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-25V-20%-X5R
+D CAP CER 1UF 25V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105M3PACTU
+$ENDCMP
+#
+$CMP C0603-1nF-25V-2%-C0G_NP0
+D CAP CER 1000PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102G3GACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-50V-5%-C0G_NP0
+D CAP CER 1500PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152J5GACTU
+$ENDCMP
+#
+$CMP C0603-2.2uF-6.3V-10%-X5R
+D CAP CER 2.2UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225K9PACTU
+$ENDCMP
+#
+$CMP C0603-220pF-50V-2%-C0G_NP0
+D CAP CER 220PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221G5GACTU
+$ENDCMP
+#
+$CMP C0603-150pF-50V-2%-C0G_NP0
+D CAP CER 150PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C151G5GACTU
+$ENDCMP
+#
+$CMP C0603-47nF-16V-5%-X7R
+D CAP CER 0.047UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473J4RACTU
+$ENDCMP
+#
+$CMP C0603-43pF-50V-5%-C0G_NP0
+D CAP CER 43PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C430J5GACTU
+$ENDCMP
+#
+$CMP C0603-330pF-100V-10%-X7R
+D CAP CER 330PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331K1RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-250V-5%-C0G_NP0
+D CAP CER 1000PF 250V C0G/NP0 0603
+F http://www.kemet.com/Lists/ProductCatalog/Attachments/46/KEM_C1003_C0G_SMD.pdf
+$ENDCMP
+#
+$CMP C0603-470nF-25V-10%-X7R
+D CAP CER 0.47UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474K3RAC7867
+$ENDCMP
+#
+$CMP C0603-2.2uF-10V-10%-X5R
+D CAP CER 2.2UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225K8PACTU
+$ENDCMP
+#
+$CMP C0603-680nF-16V-10%-X5R
+D CAP CER 0.68UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C684K4PACTU
+$ENDCMP
+#
+$CMP C0603-30pF-50V-5%-C0G_NP0
+D CAP CER 30PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C300J5GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-6.3V-10%-X7R
+D CAP CER 1UF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K9RACTU
+$ENDCMP
+#
+$CMP C0603-2.2uF-10V-10%-X7R
+D CAP CER 2.2UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225K8RACTU
+$ENDCMP
+#
+$CMP C0603-3.3uF-6.3V-20%-X5R
+D CAP CER 3.3UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C335M9PACTU
+$ENDCMP
+#
+$CMP C0603-2.2uF-10V-20%-X7R
+D CAP CER 2.2UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225M8RACTU
+$ENDCMP
+#
+$CMP C0603-33pF-50V-1%-C0G_NP0
+D CAP CER 33PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C330F5GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-25V-5%-X7R
+D CAP CER 3300PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332J3RACTU
+$ENDCMP
+#
+$CMP C0603-56nF-50V-10%-X7R
+D CAP CER 0.056UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C563K5RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-25V-10%-C0G_NP0
+D CAP CER 100PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101K3GACTU
+$ENDCMP
+#
+$CMP C0603-68pF-50V-1%-C0G_NP0
+D CAP CER 68PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C680F5GACTU
+$ENDCMP
+#
+$CMP C0603-22pF-50V-10%-C0G_NP0
+D CAP CER 22PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220K5GACTU
+$ENDCMP
+#
+$CMP C0603-33pF-50V-10%-C0G_NP0
+D CAP CER 33PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C330K5GACTU
+$ENDCMP
+#
+$CMP C0603-82pF-50V-10%-C0G_NP0
+D CAP CER 82PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C820K5GACTU
+$ENDCMP
+#
+$CMP C0603-12pF-50V-10%-C0G_NP0
+D CAP CER 12PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C120K5GACTU
+$ENDCMP
+#
+$CMP C0603-5.6pF-50V-10%-C0G_NP0
+D CAP CER 5.6PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C569K5GACTU
+$ENDCMP
+#
+$CMP C0603-6.8pF-50V-10%-C0G_NP0
+D CAP CER 6.8PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C689K5GACTU
+$ENDCMP
+#
+$CMP C0603-68pF-50V-10%-C0G_NP0
+D CAP CER 68PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C680K5GACTU
+$ENDCMP
+#
+$CMP C0603-18pF-25V-10%-C0G_NP0
+D CAP CER 18PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180K3GACTU
+$ENDCMP
+#
+$CMP C0603-15pF-50V-10%-C0G_NP0
+D CAP CER 15PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150K5GACTU
+$ENDCMP
+#
+$CMP C0603-8.2pF-50V-10%-C0G_NP0
+D CAP CER 8.2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C829K5GACTU
+$ENDCMP
+#
+$CMP C0603-8.2pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 8.2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C829D5GACTU
+$ENDCMP
+#
+$CMP C0603-10nF-6.3V-10%-X7R
+D CAP CER 10000PF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K9RACTU
+$ENDCMP
+#
+$CMP C0603-15nF-25V-10%-X7R
+D CAP CER 0.015UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153K3RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-10V-10%-X7R
+D CAP CER 10000PF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K8RACTU
+$ENDCMP
+#
+$CMP C0603-18pF-16V-5%-C0G_NP0
+D CAP CER 18PF 16V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180J4GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-25V-10%-X7R
+D CAP CER 3300PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332K3RACTU
+$ENDCMP
+#
+$CMP C0603-6.8pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 6.8PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C689D5GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-16V-10%-X7R
+D CAP CER 6800PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682K4RACTU
+$ENDCMP
+#
+$CMP C0603-150pF-50V-10%-X7R
+D CAP CER 150PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C151K5RACTU
+$ENDCMP
+#
+$CMP C0603-27nF-50V-10%-X7R
+D CAP CER 0.027UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C273K5RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-100V-10%-C0G_NP0
+D CAP CER 100PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101K1GACTU
+$ENDCMP
+#
+$CMP C0603-3.9nF-50V-5%-C0G_NP0
+D CAP CER 3900PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C392J5GACTU
+$ENDCMP
+#
+$CMP C0603-33nF-10V-10%-X7R
+D CAP CER 0.033UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333K8RACTU
+$ENDCMP
+#
+$CMP C0603-20pF-50V-5%-C0G_NP0
+D CAP CER 20PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C200J5GACTU
+$ENDCMP
+#
+$CMP C0603-75pF-50V-5%-C0G_NP0
+D CAP CER 75PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C750J5GACTU
+$ENDCMP
+#
+$CMP C0603-24pF-50V-5%-C0G_NP0
+D CAP CER 24PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C240J5GACTU
+$ENDCMP
+#
+$CMP C0603-16pF-50V-5%-C0G_NP0
+D CAP CER 16PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C160J5GACTU
+$ENDCMP
+#
+$CMP C0603-62pF-50V-5%-C0G_NP0
+D CAP CER 62PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C620J5GACTU
+$ENDCMP
+#
+$CMP C0603-36pF-50V-5%-C0G_NP0
+D CAP CER 36PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C360J5GACTU
+$ENDCMP
+#
+$CMP C0603-51pF-50V-5%-C0G_NP0
+D CAP CER 51PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C510J5GACTU
+$ENDCMP
+#
+$CMP C0603-91pF-50V-5%-C0G_NP0
+D CAP CER 91PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C910J5GACTU
+$ENDCMP
+#
+$CMP C0603-270nF-10V-10%-X5R
+D CAP CER 0.27UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C274K8PACTU
+$ENDCMP
+#
+$CMP C0603-390nF-10V-10%-X5R
+D CAP CER 0.39UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C394K8PACTU
+$ENDCMP
+#
+$CMP C0603-220pF-50V-10%-C0G_NP0
+D CAP CER 220PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221K5GACTU
+$ENDCMP
+#
+$CMP C0603-8.2pF-50V-5%-C0G_NP0
+D CAP CER 8.2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C829J5GACTU
+$ENDCMP
+#
+$CMP C0603-39nF-50V-10%-X7R
+D CAP CER 0.039UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C393K5RACTU
+$ENDCMP
+#
+$CMP C0603-220pF-16V-10%-X7R
+D CAP CER 220PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221K4RACTU
+$ENDCMP
+#
+$CMP C0603-390pF-50V-10%-X7R
+D CAP CER 390PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C391K5RACTU
+$ENDCMP
+#
+$CMP C0603-270pF-50V-10%-X7R
+D CAP CER 270PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C271K5RACTU
+$ENDCMP
+#
+$CMP C0603-470pF-16V-10%-X7R
+D CAP CER 470PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471K4RACTU
+$ENDCMP
+#
+$CMP C0603-560pF-25V-10%-X7R
+D CAP CER 560PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561K3RACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-16V-10%-X7R
+D CAP CER 1500PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152K4RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-100V-5%-X7R
+D CAP CER 10000PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103J1RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-100V-5%-X7R
+D CAP CER 1000PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J1RACTU
+$ENDCMP
+#
+$CMP C0603-820nF-10V-10%-X5R
+D CAP CER 0.82UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C824K8PACTU
+$ENDCMP
+#
+$CMP C0603-560nF-10V-10%-X5R
+D CAP CER 0.56UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C564K8PACTU
+$ENDCMP
+#
+$CMP C0603-1nF-50V-10%-C0G_NP0
+D CAP CER 1000PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K5GACTU
+$ENDCMP
+#
+$CMP C0603-680pF-25V-5%-C0G_NP0
+D CAP CER 680PF 25V C0G/NP0 0603
+F http:-
+$ENDCMP
+#
+$CMP C0603-47pF-200V-5%-C0G_NP0
+D CAP CER 47PF 200V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470J2GACTU
+$ENDCMP
+#
+$CMP C0603-10nF-25V-5%-X7R
+D CAP CER 10000PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103J3RACTU
+$ENDCMP
+#
+$CMP C0603-68pF-200V-5%-C0G_NP0
+D CAP CER 68PF 200V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C680J2GACTU
+$ENDCMP
+#
+$CMP C0603-22nF-16V-5%-X7R
+D CAP CER 0.022UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223J4RACTU
+$ENDCMP
+#
+$CMP C0603-33nF-100V-10%-X7R
+D CAP CER 0.033UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333K1RACTU
+$ENDCMP
+#
+$CMP C0603-12nF-100V-10%-X7R
+D CAP CER 0.012UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C123K1RACTU
+$ENDCMP
+#
+$CMP C0603-15nF-100V-10%-X7R
+D CAP CER 0.015UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153K1RACTU
+$ENDCMP
+#
+$CMP C0603-200pF-50V-5%-C0G_NP0
+D CAP CER 200PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C201J5GACTU
+$ENDCMP
+#
+$CMP C0603-39nF-100V-10%-X7R
+D CAP CER 0.039UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C393K1RACTU
+$ENDCMP
+#
+$CMP C0603-27nF-100V-10%-X7R
+D CAP CER 0.027UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C273K1RACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-100V-10%-X7R
+D CAP CER 4700PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K1RACTU
+$ENDCMP
+#
+$CMP C0603-820pF-25V-5%-C0G_NP0
+D CAP CER 820PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C821J3GACTU
+$ENDCMP
+#
+$CMP C0603-22nF-50V-5%-X7R
+D CAP CER 0.022UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223J5RACTU
+$ENDCMP
+#
+$CMP C0603-510pF-50V-5%-C0G_NP0
+D CAP CER 510PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C511J5GACTU
+$ENDCMP
+#
+$CMP C0603-300pF-50V-5%-C0G_NP0
+D CAP CER 300PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C301J5GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-50V-5%-C0G_NP0
+D CAP CER 3300PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332J5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-50V-5%-C0G_NP0
+D CAP CER 4700PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472J5GACTU
+$ENDCMP
+#
+$CMP C0603-6.8pF-50V-5%-C0G_NP0
+D CAP CER 6.8PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C689J5GACTU
+$ENDCMP
+#
+$CMP C0603-150nF-16V-5%-X7R
+D CAP CER 0.15UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C154J4RACTU
+$ENDCMP
+#
+$CMP C0603-2.7nF-25V-5%-C0G_NP0
+D CAP CER 2700PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C272J3GAC7867
+$ENDCMP
+#
+$CMP C0603-620pF-50V-5%-C0G_NP0
+D CAP CER 620PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C621J5GACTU
+$ENDCMP
+#
+$CMP C0603-33nF-16V-5%-X7R
+D CAP CER 0.033UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333J4RACTU
+$ENDCMP
+#
+$CMP C0603-33nF-25V-5%-X7R
+D CAP CER 0.033UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333J3RACTU
+$ENDCMP
+#
+$CMP C0603-10pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 10PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100C5GACTU
+$ENDCMP
+#
+$CMP C0603-1nF-100V-5%-C0G_NP0
+D CAP CER 1000PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J1GACTU
+$ENDCMP
+#
+$CMP C0603-750pF-50V-5%-C0G_NP0
+D CAP CER 750PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C751J5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-200V-10%-X7R
+D CAP CER 4700PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K2RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-25V-10%-C0G_NP0
+D CAP CER 10000PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103K3GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-50V-5%-C0G_NP0
+D CAP CER 6800PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682J5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 4.7PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C479C5GACTU
+$ENDCMP
+#
+$CMP C0603-120nF-50V-10%-X7R
+D CAP CER 0.12UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C124K5RAC7867
+$ENDCMP
+#
+$CMP C0603-3.9pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 3.9PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C399C5GACTU
+$ENDCMP
+#
+$CMP C0603-2.2pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 2.2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C229C5GACTU
+$ENDCMP
+#
+$CMP C0603-3.3pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 3.3PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C339C5GACTU
+$ENDCMP
+#
+$CMP C0603-910pF-50V-5%-C0G_NP0
+D CAP CER 910PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C911J5GACTU
+$ENDCMP
+#
+$CMP C0603-4.3nF-50V-5%-C0G_NP0
+D CAP CER 4300PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C432J5GAC7867
+$ENDCMP
+#
+$CMP C0603-5.6pF-50V-5%-C0G_NP0
+D CAP CER 5.6PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C569J5GACTU
+$ENDCMP
+#
+$CMP C0603-10pF-50V-1%-C0G_NP0
+D CAP CER 10PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100F5GAC7867
+$ENDCMP
+#
+$CMP C0603-47nF-50V-5%-X7R
+D CAP CER 0.047UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473J5RACTU
+$ENDCMP
+#
+$CMP C0603-82nF-50V-10%-X7R
+D CAP CER 0.082UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C823K5RACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-25V-5%-X7R
+D CAP CER 2200PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222J3RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-16V-5%-X7R
+D CAP CER 1000PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J4RACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-25V-5%-X7R
+D CAP CER 1500PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152J3RACTU
+$ENDCMP
+#
+$CMP C0603-1uF-25V-20%-X7R
+D CAP CER 1UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105M3RACTU
+$ENDCMP
+#
+$CMP C0603-15nF-50V-5%-X7R
+D CAP CER 0.015UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153J5RACTU
+$ENDCMP
+#
+$CMP C0603-330pF-50V-2%-C0G_NP0
+D CAP CER 330PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331G5GACTU
+$ENDCMP
+#
+$CMP C0603-12nF-50V-5%-X7R
+D CAP CER 0.012UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C123J5RACTU
+$ENDCMP
+#
+$CMP C0603-56nF-16V-5%-X7R
+D CAP CER 0.056UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C563J4RACTU
+$ENDCMP
+#
+$CMP C0603-12nF-25V-5%-C0G_NP0
+D CAP CER 0.012UF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C123J3GACTU
+$ENDCMP
+#
+$CMP C0603-68nF-16V-5%-X7R
+D CAP CER 0.068UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C683J4RACTU
+$ENDCMP
+#
+$CMP C0603-68nF-50V-5%-X7R
+D CAP CER 0.068UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C683J5RACTU
+$ENDCMP
+#
+$CMP C0603-390nF-16V-10%-X7R
+D CAP CER 0.39UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C394K4RACTU
+$ENDCMP
+#
+$CMP C0603-6.2nF-50V-5%-C0G_NP0
+D CAP CER 6200PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C622J5GAC7867
+$ENDCMP
+#
+$CMP C0603-330pF-50V-1%-C0G_NP0
+D CAP CER 330PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331F5GACTU
+$ENDCMP
+#
+$CMP C0603-470nF-6.3V-10%-X7R
+D CAP CER 0.47UF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474K9RACTU
+$ENDCMP
+#
+$CMP C0603-7.5nF-25V-5%-C0G_NP0
+D CAP CER 7500PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C752J3GAC7867
+$ENDCMP
+#
+$CMP C0603-9.1nF-25V-5%-C0G_NP0
+D CAP CER 9100PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C912J3GAC7867
+$ENDCMP
+#
+$CMP C0603-100nF-50V-5%-X7R
+D CAP CER 0.1UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C104J5RAC7013
+$ENDCMP
+#
+$CMP C0603-5.1pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 5.1PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C519C5GACTU
+$ENDCMP
+#
+$CMP C0603-100pF-200V-5%-C0G_NP0
+D CAP CER 100PF 200V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101J2GAC7867
+$ENDCMP
+#
+$CMP C0603-1nF-200V-5%-X7R
+D CAP CER 1000PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J2RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-200V-5%-X7R
+D CAP CER 10000PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103J2RACTU
+$ENDCMP
+#
+$CMP C0603-330nF-16V-5%-X7R
+D CAP CER 0.33UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C334J4RACTU
+$ENDCMP
+#
+$CMP C0603-47nF-100V-5%-X7R
+D CAP CER 0.047UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473J1RACTU
+$ENDCMP
+#
+$CMP C0603-22pF-50V-2%-C0G_NP0
+D CAP CER 22PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220G5GACTU
+$ENDCMP
+#
+$CMP C0603-1pF-50V-0.1pF_TOL-C0G_NP0
+D CAP CER 1PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C109B5GAC7867
+$ENDCMP
+#
+$CMP C0603-470pF-50V-2%-C0G_NP0
+D CAP CER 470PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471G5GACTU
+$ENDCMP
+#
+$CMP C0603-18pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 18PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180C5GACTU
+$ENDCMP
+#
+$CMP C0603-82pF-50V-1%-C0G_NP0
+D CAP CER 82PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C820F5GACTU
+$ENDCMP
+#
+$CMP C0603-22pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 22PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220C5GACTU
+$ENDCMP
+#
+$CMP C0603-47pF-50V-1%-C0G_NP0
+D CAP CER 47PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0805C153J1RACTU
+$ENDCMP
+#
+$CMP C0603-15nF-25V-2%-C0G_NP0
+D CAP CER 0.015UF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153G3GACTU
+$ENDCMP
+#
+$CMP C0603-39pF-50V-1%-C0G_NP0
+D CAP CER 39PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C390F5GACTU
+$ENDCMP
+#
+$CMP C0603-150pF-50V-1%-C0G_NP0
+D CAP CER 150PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C151F5GACTU
+$ENDCMP
+#
+$CMP C0603-22pF-100V-1%-C0G_NP0
+D CAP CER 22PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220F1GACTU
+$ENDCMP
+#
+$CMP C0603-180pF-100V-1%-C0G_NP0
+D CAP CER 180PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C181F1GACTU
+$ENDCMP
+#
+$CMP C0603-470pF-200V-10%-X7R
+D CAP CER 470PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471K2RACTU
+$ENDCMP
+#
+$CMP C0603-1uF-10V-20%-X5R
+D CAP CER 1UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105M8PACTU
+$ENDCMP
+#
+$CMP C0603-56nF-25V-10%-X7R
+D CAP CER 0.056UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C563K3RACTU
+$ENDCMP
+#
+$CMP C0603-1uF-6.3V-20%-X5R
+D CAP CER 1UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105M9PACTU
+$ENDCMP
+#
+$CMP C0603-39pF-50V-10%-C0G_NP0
+D CAP CER 39PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C390K5GACTU
+$ENDCMP
+#
+$CMP C0603-22nF-25V-20%-X7R
+D CAP CER 0.022UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223M3RACTU
+$ENDCMP
+#
+$CMP C0603-3.3pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 3.3PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C339D5GACTU
+$ENDCMP
+#
+$CMP C0603-1.2pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 1.2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C129D5GACTU
+$ENDCMP
+#
+$CMP C0603-1pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 1PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C109D5GACTU
+$ENDCMP
+#
+$CMP C0603-1.5pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 1.5PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C159D5GACTU
+$ENDCMP
+#
+$CMP C0603-18nF-16V-10%-X7R
+D CAP CER 0.018UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C183K4RACTU
+$ENDCMP
+#
+$CMP C0603-2.2pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 2.2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C229D5GACTU
+$ENDCMP
+#
+$CMP C0603-2.7pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 2.7PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C279D5GACTU
+$ENDCMP
+#
+$CMP C0603-3.9pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 3.9PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C399D5GACTU
+$ENDCMP
+#
+$CMP C0603-5.6pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 5.6PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C569D5GACTU
+$ENDCMP
+#
+$CMP C0603-15nF-16V-10%-X7R
+D CAP CER 0.015UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153K4RACTU
+$ENDCMP
+#
+$CMP C0603-180pF-50V-10%-C0G_NP0
+D CAP CER 180PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C181K5GACTU
+$ENDCMP
+#
+$CMP C0603-27nF-16V-10%-X7R
+D CAP CER 0.027UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C273K4RACTU
+$ENDCMP
+#
+$CMP C0603-10pF-100V-10%-C0G_NP0
+D CAP CER 10PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100K1GACTU
+$ENDCMP
+#
+$CMP C0603-12pF-100V-10%-C0G_NP0
+D CAP CER 12PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C120K1GACTU
+$ENDCMP
+#
+$CMP C0603-220pF-50V-20%-X7R
+D CAP CER 220PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221M5RACTU
+$ENDCMP
+#
+$CMP C0603-330nF-10V-10%-X5R
+D CAP CER 0.33UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C334K8PACTU
+$ENDCMP
+#
+$CMP C0603-15pF-100V-5%-C0G_NP0
+D CAP CER 15PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150J1GACTU
+$ENDCMP
+#
+$CMP C0603-18pF-100V-5%-C0G_NP0
+D CAP CER 18PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180J1GACTU
+$ENDCMP
+#
+$CMP C0603-12pF-100V-5%-C0G_NP0
+D CAP CER 12PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C120J1GACTU
+$ENDCMP
+#
+$CMP C0603-330pF-50V-10%-C0G_NP0
+D CAP CER 330PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331K5GACTU
+$ENDCMP
+#
+$CMP C0603-180pF-100V-5%-C0G_NP0
+D CAP CER 180PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C181J1GACTU
+$ENDCMP
+#
+$CMP C0603-390pF-50V-10%-C0G_NP0
+D CAP CER 390PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C391K5GACTU
+$ENDCMP
+#
+$CMP C0603-330pF-100V-5%-C0G_NP0
+D CAP CER 330PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331J1GACTU
+$ENDCMP
+#
+$CMP C0603-560pF-50V-10%-C0G_NP0
+D CAP CER 560PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561K5GACTU
+$ENDCMP
+#
+$CMP C0603-82pF-200V-5%-C0G_NP0
+D CAP CER 82PF 200V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C820J2GACTU
+$ENDCMP
+#
+$CMP C0603-2.7nF-100V-10%-X7R
+D CAP CER 2700PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C272K1RACTU
+$ENDCMP
+#
+$CMP C0603-5.6nF-100V-10%-X7R
+D CAP CER 5600PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C562K1RACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-50V-10%-C0G_NP0
+D CAP CER 2200PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222K5GAC7867
+$ENDCMP
+#
+$CMP C0603-4.7nF-50V-10%-C0G_NP0
+D CAP CER 4700PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K5GACTU
+$ENDCMP
+#
+$CMP C0603-68nF-10V-10%-X7R
+D CAP CER 0.068UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C683K8RACTU
+$ENDCMP
+#
+$CMP C0603-560pF-100V-5%-C0G_NP0
+D CAP CER 560PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561J1GAC7867
+$ENDCMP
+#
+$CMP C0603-750pF-50V-10%-C0G_NP0
+D CAP CER 750PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C751K5GACTU
+$ENDCMP
+#
+$CMP C0603-1.8pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 1.8PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C189C5GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-100V-5%-C0G_NP0
+D CAP CER 3300PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332J1GAC7867
+$ENDCMP
+#
+$CMP C0603-1.5nF-10V-5%-X7R
+D CAP CER 1500PF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152J8RACTU
+$ENDCMP
+#
+$CMP C0603-560pF-50V-5%-X7R
+D CAP CER 560PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561J5RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-25V-5%-X7R
+D CAP CER 1000PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102J3RACTU
+$ENDCMP
+#
+$CMP C0603-1.8nF-50V-5%-X7R
+D CAP CER 1800PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C182J5RACTU
+$ENDCMP
+#
+$CMP C0603-330pF-50V-5%-X7R
+D CAP CER 330PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331J5RACTU
+$ENDCMP
+#
+$CMP C0603-390pF-50V-5%-X7R
+D CAP CER 390PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C391J5RACTU
+$ENDCMP
+#
+$CMP C0603-680pF-50V-5%-X7R
+D CAP CER 680PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C681J5RACTU
+$ENDCMP
+#
+$CMP C0603-2.7nF-50V-5%-X7R
+D CAP CER 2700PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C272J5RACTU
+$ENDCMP
+#
+$CMP C0603-3.9nF-100V-5%-C0G_NP0
+D CAP CER 3900PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C392J1GAC7867
+$ENDCMP
+#
+$CMP C0603-270nF-10V-10%-X7R
+D CAP CER 0.27UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C274K8RACTU
+$ENDCMP
+#
+$CMP C0603-270nF-6.3V-10%-X7R
+D CAP CER 0.27UF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C274K9RACTU
+$ENDCMP
+#
+$CMP C0603-6.8pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 6.8PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C689C5GACTU
+$ENDCMP
+#
+$CMP C0603-390nF-10V-10%-X7R
+D CAP CER 0.39UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C394K8RACTU
+$ENDCMP
+#
+$CMP C0603-470nF-16V-20%-X7R
+D CAP CER 0.47UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474M4RACTU
+$ENDCMP
+#
+$CMP C0603-2.4nF-100V-10%-C0G_NP0
+D CAP CER 2400PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C242K1GACTU
+$ENDCMP
+#
+$CMP C0603-18pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 18PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180D5GACTU
+$ENDCMP
+#
+$CMP C0603-100pF-50V-2%-C0G_NP0
+D CAP CER 100PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101G5GACTU
+$ENDCMP
+#
+$CMP C0603-18pF-50V-2%-C0G_NP0
+D CAP CER 18PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180G5GACTU
+$ENDCMP
+#
+$CMP C0603-33pF-50V-2%-C0G_NP0
+D CAP CER 33PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C330G5GACTU
+$ENDCMP
+#
+$CMP C0603-15pF-50V-2%-C0G_NP0
+D CAP CER 15PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150G5GACTU
+$ENDCMP
+#
+$CMP C0603-82pF-50V-2%-C0G_NP0
+D CAP CER 82PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C820G5GACTU
+$ENDCMP
+#
+$CMP C0603-56pF-100V-2%-C0G_NP0
+D CAP CER 56PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C560G1GACTU
+$ENDCMP
+#
+$CMP C0603-680pF-50V-2%-C0G_NP0
+D CAP CER 680PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C681G5GACTU
+$ENDCMP
+#
+$CMP C0603-15pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 15PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150C5GACTU
+$ENDCMP
+#
+$CMP C0603-8.2pF-100V-0.1pF_TOL-C0G_NP0
+D CAP CER 8.2PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C829B1GAC7867
+$ENDCMP
+#
+$CMP C0603-1uF-16V-20%-X5R
+D CAP CER 1UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105M4PACTU
+$ENDCMP
+#
+$CMP C0603-390pF-100V-5%-C0G_NP0
+D CAP CER 390PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C391J1GAC7867
+$ENDCMP
+#
+$CMP C0603-15nF-50V-20%-X7R
+D CAP CER 0.015UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153M5RAC7867
+$ENDCMP
+#
+$CMP C0603-120pF-50V-10%-C0G_NP0
+D CAP CER 120PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C121K5GAC7867
+$ENDCMP
+#
+$CMP C0603-270pF-50V-10%-C0G_NP0
+D CAP CER 270PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C271K5GAC7867
+$ENDCMP
+#
+$CMP C0603-10pF-25V-5%-C0G_NP0
+D CAP CER 10PF 25V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100J3GACTU
+$ENDCMP
+#
+$CMP C0603-0.75pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 0.75PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C758C5GAC7867
+$ENDCMP
+#
+$CMP C0603-9.1pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 9.1PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C919D5GAC7867
+$ENDCMP
+#
+$CMP C0603-1.2nF-16V-10%-X7R
+D CAP CER 1200PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C122K4RACTU
+$ENDCMP
+#
+$CMP C0603-160pF-50V-5%-C0G_NP0
+D CAP CER 160PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C161J5GACTU
+$ENDCMP
+#
+$CMP C0603-10nF-100V-20%-X7R
+D CAP CER 10000PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103M1RACTU
+$ENDCMP
+#
+$CMP C0603-51pF-100V-5%-C0G_NP0
+D CAP CER 51PF 100V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C510J1GACTU
+$ENDCMP
+#
+$CMP C0603-560pF-25V-5%-C0G_NP0
+D CAP CER 560PF 25V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561J3GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-200V-10%-X7R
+D CAP CER 6800PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682K2RACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-25V-5%-C0G_NP0
+D CAP CER 1500PF 25V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152J3GACTU
+$ENDCMP
+#
+$CMP C0603-2.2uF-16V-20%-X5R
+D CAP CER 2.2UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225M4PACTU
+$ENDCMP
+#
+$CMP C0603-27pF-100V-2%-C0G_NP0
+D CAP CER 27PF 100V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C270G1GACTU
+$ENDCMP
+#
+$CMP C0603-47pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 47PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470D5GACTU
+$ENDCMP
+#
+$CMP C0603-47pF-100V-1%-C0G_NP0
+D CAP CER 47PF 100V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470F1GACTU
+$ENDCMP
+#
+$CMP C0603-22pF-16V-10%-C0G_NP0
+D CAP CER 22PF 16V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220K4GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-10V-10%-X7R
+D CAP CER 1UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K8RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-50V-20%-C0G_NP0
+D CAP CER 100PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101M5GACTU
+$ENDCMP
+#
+$CMP C0603-150pF-25V-10%-C0G_NP0
+D CAP CER 150PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C151K3GACTU
+$ENDCMP
+#
+$CMP C0603-470nF-16V-10%-X5R
+D CAP CER 0.47UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474K4PACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-50V-5%-C0G_NP0
+D CAP CER 2200PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222J5GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-16V-20%-X7R
+D CAP CER 1UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105M4RACTU
+$ENDCMP
+#
+$CMP C0603-47pF-50V-2%-C0G_NP0
+D CAP CER 47PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470G5GAC7867
+$ENDCMP
+#
+$CMP C0603-150pF-50V-10%-C0G_NP0
+D CAP CER 150PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C151K5GACTU
+$ENDCMP
+#
+$CMP C0603-470nF-16V-20%-X5R
+D CAP CER 0.47UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C474M4PACTU
+$ENDCMP
+#
+$CMP C0603-47pF-100V-10%-C0G_NP0
+D CAP CER 47PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C470K1GACTU
+$ENDCMP
+#
+$CMP C0603-680nF-10V-10%-X5R
+D CAP CER 0.68UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C684K8PACTU
+$ENDCMP
+#
+$CMP C0603-390nF-16V-10%-X5R
+D CAP CER 0.39UF 16V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C394K4PACTU
+$ENDCMP
+#
+$CMP C0603-56pF-100V-5%-C0G_NP0
+D CAP CER 56PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C560J1GACTU
+$ENDCMP
+#
+$CMP C0603-27pF-100V-5%-C0G_NP0
+D CAP CER 27PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C270J1GACTU
+$ENDCMP
+#
+$CMP C0603-180pF-50V-10%-X7R
+D CAP CER 180PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C181K5RACTU
+$ENDCMP
+#
+$CMP C0603-220pF-16V-5%-C0G_NP0
+D CAP CER 220PF 16V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221J4GACTU
+$ENDCMP
+#
+$CMP C0603-560pF-50V-10%-X7R
+D CAP CER 560PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561K5RACTU
+$ENDCMP
+#
+$CMP C0603-56pF-50V-1%-C0G_NP0
+D CAP CER 56PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C560F5GACTU
+$ENDCMP
+#
+$CMP C0603-39nF-25V-10%-X7R
+D CAP CER 0.039UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C393K3RACTU
+$ENDCMP
+#
+$CMP C0603-68pF-25V-10%-C0G_NP0
+D CAP CER 68PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C680K3GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-6.3V-20%-X7R
+D CAP CER 3300PF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332M9RACTU
+$ENDCMP
+#
+$CMP C0603-10nF-16V-20%-X7R
+D CAP CER 10000PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103M4RACTU
+$ENDCMP
+#
+$CMP C0603-1.8pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 1.8PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C189D5GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-16V-10%-X7R
+D CAP CER 3300PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332K4RACTU
+$ENDCMP
+#
+$CMP C0603-4.7pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 4.7PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C479D5GACTU
+$ENDCMP
+#
+$CMP C0603-330pF-25V-5%-C0G_NP0
+D CAP CER 330PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C331J3GACTU
+$ENDCMP
+#
+$CMP C0603-0.5pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 0.5PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C508C5GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-25V-10%-C0G_NP0
+D CAP CER 6800PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682K3GACTU
+$ENDCMP
+#
+$CMP C0603-10nF-16V-5%-X7R
+D CAP CER 10000PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103J4RACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-100V-10%-X7R
+D CAP CER 6800PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682K1RACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-100V-10%-X7R
+D CAP CER 1500PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152K1RACTU
+$ENDCMP
+#
+$CMP C0603-18nF-100V-10%-X7R
+D CAP CER 0.018UF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C183K1RACTU
+$ENDCMP
+#
+$CMP C0603-8.2nF-100V-10%-X7R
+D CAP CER 8200PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C822K1RACTU
+$ENDCMP
+#
+$CMP C0603-1.8nF-100V-10%-X7R
+D CAP CER 1800PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C182K1RACTU
+$ENDCMP
+#
+$CMP C0603-2.7nF-100V-5%-C0G_NP0
+D CAP CER 2700PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C272J1GAC7867
+$ENDCMP
+#
+$CMP C0603-27nF-25V-5%-X7R
+D CAP CER 0.027UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C273J3RACTU
+$ENDCMP
+#
+$CMP C0603-180nF-16V-10%-X7R
+D CAP CER 0.18UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C184K4RACTU
+$ENDCMP
+#
+$CMP C0603-8.2nF-50V-5%-X7R
+D CAP CER 8200PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C822J5RACTU
+$ENDCMP
+#
+$CMP C0603-220pF-50V-5%-X7R
+D CAP CER 220PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221J5RACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-50V-5%-X7R
+D CAP CER 6800PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682J5RACTU
+$ENDCMP
+#
+$CMP C0603-1.5nF-50V-5%-X7R
+D CAP CER 1500PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C152J5RACTU
+$ENDCMP
+#
+$CMP C0603-3.9nF-50V-5%-X7R
+D CAP CER 3900PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C392J5RACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-50V-10%-C0G_NP0
+D CAP CER 3300PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332K5GACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-10V-5%-X7R
+D CAP CER 2200PF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222J8RACTU
+$ENDCMP
+#
+$CMP C0603-2.7nF-50V-5%-C0G_NP0
+D CAP CER 2700PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C272J5GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-25V-5%-C0G_NP0
+D CAP CER 6800PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682J3GACTU
+$ENDCMP
+#
+$CMP C0603-1.2nF-50V-5%-C0G_NP0
+D CAP CER 1200PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C122J5GACTU
+$ENDCMP
+#
+$CMP C0603-12pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 12PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C120D5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-100V-5%-X7R
+D CAP CER 4700PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472J1RACTU
+$ENDCMP
+#
+$CMP C0603-330nF-6.3V-10%-X7R
+D CAP CER 0.33UF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C334K9RACTU
+$ENDCMP
+#
+$CMP C0603-2.2uF-10V-20%-X5R
+D CAP CER 2.2UF 10V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225M8PACTU
+$ENDCMP
+#
+$CMP C0603-15pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 15PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150D5GACTU
+$ENDCMP
+#
+$CMP C0603-8.2pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 8.2PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C829C5GACTU
+$ENDCMP
+#
+$CMP C0603-220nF-10V-5%-X7R
+D CAP CER 0.22UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224J8RACTU
+$ENDCMP
+#
+$CMP C0603-4.7uF-6.3V-20%-X5R
+D CAP CER 4.7UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C475M9PACTU
+$ENDCMP
+#
+$CMP C0603-1nF-50V-2%-C0G_NP0
+D CAP CER 1000PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102G5GACTU
+$ENDCMP
+#
+$CMP C0603-180pF-50V-1%-C0G_NP0
+D CAP CER 180PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C181F5GACTU
+$ENDCMP
+#
+$CMP C0603-100pF-100V-1%-C0G_NP0
+D CAP CER 100PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101F1GACTU
+$ENDCMP
+#
+$CMP C0603-160pF-50V-1%-C0G_NP0
+D CAP CER 160PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C161F5GACTU
+$ENDCMP
+#
+$CMP C0603-3.3nF-50V-1%-C0G_NP0
+D CAP CER 3300PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C332F5GACTU
+$ENDCMP
+#
+$CMP C0603-15nF-25V-1%-C0G_NP0
+D CAP CER 0.015UF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C153F3GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-16V-10%-X7R
+D CAP CER 1UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K4RACTU
+$ENDCMP
+#
+$CMP C0603-15pF-16V-10%-C0G_NP0
+D CAP CER 15PF 16V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150K4GACTU
+$ENDCMP
+#
+$CMP C0603-220pF-25V-5%-C0G_NP0
+D CAP CER 220PF 25V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221J3GACTU
+$ENDCMP
+#
+$CMP C0603-820pF-50V-5%-X7R
+D CAP CER 820PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C821J5RACTU
+$ENDCMP
+#
+$CMP C0603-82nF-16V-10%-X7R
+D CAP CER 0.082UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C823K4RACTU
+$ENDCMP
+#
+$CMP C0603-1pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 1PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C109C5GACTU
+$ENDCMP
+#
+$CMP C0603-56pF-50V-2%-C0G_NP0
+D CAP CER 56PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C560G5GACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-50V-20%-X7R
+D CAP CER 2200PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222M5RACTU
+$ENDCMP
+#
+$CMP C0603-22pF-50V-20%-C0G_NP0
+D CAP CER 22PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220M5GACTU
+$ENDCMP
+#
+$CMP C0603-680pF-100V-10%-X7R
+D CAP CER 680PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C681K1RACTU
+$ENDCMP
+#
+$CMP C0603-150nF-10V-10%-X7R
+D CAP CER 0.15UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C154K8RACTU
+$ENDCMP
+#
+$CMP C0603-33nF-50V-20%-X7R
+D CAP CER 0.033UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333M5RAC7867
+$ENDCMP
+#
+$CMP C0603-47nF-50V-20%-X7R
+D CAP CER 0.047UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473M5RAC7867
+$ENDCMP
+#
+$CMP C0603-6.2pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 6.2PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C629D5GAC7867
+$ENDCMP
+#
+$CMP C0603-6.2pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 6.2PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C629C5GAC7867
+$ENDCMP
+#
+$CMP C0603-4.7nF-50V-20%-X7R
+D CAP CER 4700PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472M5RACTU
+$ENDCMP
+#
+$CMP C0603-470pF-50V-5%-C0G_NP0
+D CAP CER 470PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C471J5GACTU
+$ENDCMP
+#
+$CMP C0603-220pF-100V-10%-X7R
+D CAP CER 220PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221K1RACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-25V-20%-X7R
+D CAP CER 2200PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222M3RACTU
+$ENDCMP
+#
+$CMP C0603-22nF-50V-20%-X7R
+D CAP CER 0.022UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223M5RAC7867
+$ENDCMP
+#
+$CMP C0603-15pF-10V-20%-C0G_NP0
+D CAP CER 15PF 10V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150M8GACTU
+$ENDCMP
+#
+$CMP C0603-1.5pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 1.5PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C159C5GACTU
+$ENDCMP
+#
+$CMP C0603-1uF-6.3V-10%-X5R
+D CAP CER 1UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C105K9PACTU
+$ENDCMP
+#
+$CMP C0603-39pF-100V-5%-C0G_NP0
+D CAP CER 39PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C390J1GACTU
+$ENDCMP
+#
+$CMP C0603-680pF-50V-10%-C0G_NP0
+D CAP CER 680PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C681K5GAC7867
+$ENDCMP
+#
+$CMP C0603-9.1pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 9.1PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C919C5GAC7867
+$ENDCMP
+#
+$CMP C0603-2.2uF-6.3V-20%-X5R
+D CAP CER 2.2UF 6.3V X5R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C225M9PACTU
+$ENDCMP
+#
+$CMP C0603-56nF-16V-10%-X7R
+D CAP CER 0.056UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C563K4RACTU
+$ENDCMP
+#
+$CMP C0603-1nF-10V-10%-X7R
+D CAP CER 1000PF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K8RACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-25V-10%-X7R
+D CAP CER 6800PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682K3RACTU
+$ENDCMP
+#
+$CMP C0603-120nF-16V-10%-X7R
+D CAP CER 0.12UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C124K4RACTU
+$ENDCMP
+#
+$CMP C0603-33nF-50V-5%-X7R
+D CAP CER 0.033UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C333J5RACTU
+$ENDCMP
+#
+$CMP C0603-220pF-200V-10%-X7R
+D CAP CER 220PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C221K2RACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-100V-5%-C0G_NP0
+D CAP CER 4700PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472J1GAC7867
+$ENDCMP
+#
+$CMP C0603-1.8pF-100V-0.25pF_TOL-C0G_NP0
+D CAP CER 1.8PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C189C1GACTU
+$ENDCMP
+#
+$CMP C0603-39pF-50V-2%-C0G_NP0
+D CAP CER 39PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C390G5GACTU
+$ENDCMP
+#
+$CMP C0603-68nF-16V-10%-X7R
+D CAP CER 0.068UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C683K4RACTU
+$ENDCMP
+#
+$CMP C0603-0.5pF-100V-0.1pF_TOL-C0G_NP0
+D CAP CER 0.5PF 100V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C508B1GACTU
+$ENDCMP
+#
+$CMP C0603-220nF-25V-20%-X7R
+D CAP CER 0.22UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224M3RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-50V-20%-X7R
+D CAP CER 100PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101M5RACTU
+$ENDCMP
+#
+$CMP C0603-100pF-10V-10%-C0G_NP0
+D CAP CER 100PF 10V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101K8GACTU
+$ENDCMP
+#
+$CMP C0603-10pF-16V-5%-C0G_NP0
+D CAP CER 10PF 16V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C100J4GACTU
+$ENDCMP
+#
+$CMP C0603-100pF-16V-5%-C0G_NP0
+D CAP CER 100PF 16V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C101J4GACTU
+$ENDCMP
+#
+$CMP C0603-12pF-25V-5%-C0G_NP0
+D CAP CER 12PF 25V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C120J3GACTU
+$ENDCMP
+#
+$CMP C0603-12nF-25V-10%-X7R
+D CAP CER 0.012UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C123K3RACTU
+$ENDCMP
+#
+$CMP C0603-18pF-25V-5%-C0G_NP0
+D CAP CER 18PF 25V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C180J3GACTU
+$ENDCMP
+#
+$CMP C0603-22nF-10V-10%-X7R
+D CAP CER 0.022UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C223K8RACTU
+$ENDCMP
+#
+$CMP C0603-2.7nF-16V-10%-X7R
+D CAP CER 2700PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C272K4RACTU
+$ENDCMP
+#
+$CMP C0603-3.9nF-16V-10%-X7R
+D CAP CER 3900PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C392K4RACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-6.3V-10%-X7R
+D CAP CER 4700PF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472K9RACTU
+$ENDCMP
+#
+$CMP C0603-4.7pF-50V-10%-C0G_NP0
+D CAP CER 4.7PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C479K5GACTU
+$ENDCMP
+#
+$CMP C0603-5.1pF-50V-0.5pF_TOL-C0G_NP0
+D CAP CER 5.1PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C519D5GACTU
+$ENDCMP
+#
+$CMP C0603-20pF-16V-10%-C0G_NP0
+D CAP CER 20PF 16V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C200K4GACTU
+$ENDCMP
+#
+$CMP C0603-1nF-6.3V-10%-X7R
+D CAP CER 1000PF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K9RACTU
+$ENDCMP
+#
+$CMP C0603-120pF-100V-5%-C0G_NP0
+D CAP CER 120PF 100V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C121J1GACTU
+$ENDCMP
+#
+$CMP C0603-560pF-16V-10%-X7R
+D CAP CER 560PF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C561K4RACTU
+$ENDCMP
+#
+$CMP C0603-47nF-10V-10%-X7R
+D CAP CER 0.047UF 10V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C473K8RACTU
+$ENDCMP
+#
+$CMP C0603-270pF-100V-5%-C0G_NP0
+D CAP CER 270PF 100V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C271J1GACTU
+$ENDCMP
+#
+$CMP C0603-15pF-200V-5%-C0G_NP0
+D CAP CER 15PF 200V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C150J2GACTU
+$ENDCMP
+#
+$CMP C0603-22pF-200V-5%-C0G_NP0
+D CAP CER 22PF 200V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220J2GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-25V-5%-X7R
+D CAP CER 6800PF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682J3RACTU
+$ENDCMP
+#
+$CMP C0603-240pF-50V-5%-C0G_NP0
+D CAP CER 240PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C241J5GACTU
+$ENDCMP
+#
+$CMP C0603-27nF-50V-5%-X7R
+D CAP CER 0.027UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C273J5RACTU
+$ENDCMP
+#
+$CMP C0603-5.6nF-50V-5%-C0G_NP0
+D CAP CER 5600PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C562J5GACTU
+$ENDCMP
+#
+$CMP C0603-1nF-100V-10%-C0G_NP0
+D CAP CER 1000PF 100V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C102K1GACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-200V-10%-X7R
+D CAP CER 2200PF 200V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222K2RACTU
+$ENDCMP
+#
+$CMP C0603-220nF-16V-20%-X7R
+D CAP CER 0.22UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C224M4RACTU
+$ENDCMP
+#
+$CMP C0603-4.7pF-50V-5%-C0G_NP0
+D CAP CER 4.7PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C479J5GACTU
+$ENDCMP
+#
+$CMP C0603-3nF-50V-5%-C0G_NP0
+D CAP CER 3000PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C302J5GACTU
+$ENDCMP
+#
+$CMP C0603-2nF-50V-5%-C0G_NP0
+D CAP CER 2000PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C202J5GACTU
+$ENDCMP
+#
+$CMP C0603-1.2nF-50V-5%-X7R
+D CAP CER 1200PF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C122J5RACTU
+$ENDCMP
+#
+$CMP C0603-18nF-50V-5%-X7R
+D CAP CER 0.018UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C183J5RACTU
+$ENDCMP
+#
+$CMP C0603-3.6nF-50V-5%-C0G_NP0
+D CAP CER 3600PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C362J5GACTU
+$ENDCMP
+#
+$CMP C0603-4.3pF-50V-0.25pF_TOL-C0G_NP0
+D CAP CER 4.3PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C439C5GACTU
+$ENDCMP
+#
+$CMP C0603-56nF-25V-5%-X7R
+D CAP CER 0.056UF 25V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C563J3RACTU
+$ENDCMP
+#
+$CMP C0603-56nF-50V-5%-X7R
+D CAP CER 0.056UF 50V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C563J5RACTU
+$ENDCMP
+#
+$CMP C0603-180nF-16V-5%-X7R
+D CAP CER 0.18UF 16V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C184J4RACTU
+$ENDCMP
+#
+$CMP C0603-68pF-50V-2%-C0G_NP0
+D CAP CER 68PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C680G5GACTU
+$ENDCMP
+#
+$CMP C0603-120pF-50V-2%-C0G_NP0
+D CAP CER 120PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C121G5GACTU
+$ENDCMP
+#
+$CMP C0603-22pF-100V-2%-C0G_NP0
+D CAP CER 22PF 100V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C220G1GACTU
+$ENDCMP
+#
+$CMP C0603-20pF-50V-2%-C0G_NP0
+D CAP CER 20PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C200G5GACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-50V-2%-C0G_NP0
+D CAP CER 2200PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222G5GACTU
+$ENDCMP
+#
+$CMP C0603-360pF-50V-2%-C0G_NP0
+D CAP CER 360PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C361G5GACTU
+$ENDCMP
+#
+$CMP C0603-4.7nF-50V-2%-C0G_NP0
+D CAP CER 4700PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C472G5GACTU
+$ENDCMP
+#
+$CMP C0603-10nF-10V-2%-C0G_NP0
+D CAP CER 10000PF 10V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C103G8GACTU
+$ENDCMP
+#
+$CMP C0603-20pF-25V-0.25pF_TOL-C0G_NP0
+D CAP CER 20PF 25V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C200C3GACTU
+$ENDCMP
+#
+$CMP C0603-51pF-50V-1%-C0G_NP0
+D CAP CER 51PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C510F5GACTU
+$ENDCMP
+#
+$CMP C0603-2.2nF-50V-1%-C0G_NP0
+D CAP CER 2200PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C222F5GACTU
+$ENDCMP
+#
+$CMP C0603-750pF-50V-1%-C0G_NP0
+D CAP CER 750PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C751F5GACTU
+$ENDCMP
+#
+$CMP C0603-910pF-50V-1%-C0G_NP0
+D CAP CER 910PF 50V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C911F5GACTU
+$ENDCMP
+#
+$CMP C0603-5.6nF-25V-1%-C0G_NP0
+D CAP CER 5600PF 25V NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C562F3GACTU
+$ENDCMP
+#
+$CMP C0603-180pF-50V-20%-C0G_NP0
+D CAP CER 180PF 50V C0G/NP0 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C181M5GACTU
+$ENDCMP
+#
+$CMP C0603-6.8nF-100V-5%-X7R
+D CAP CER 6800PF 100V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C682J1RACTU
+$ENDCMP
+#
+$CMP C0603-390nF-6.3V-10%-X7R
+D CAP CER 0.39UF 6.3V X7R 0603
+F http://www.kemet.com/docfinder?Partnumber=C0603C394K9RACTU
+$ENDCMP
+#
+$CMP C0603-1.2uF-6.3V-10%-X5R
+D CAP CER 1.2UF 6.3V X5R 0603
+F http://media.digikey.com/pdf/Data%20Sheets/Kemet%20PDFs/X5R_Dielectric_Rev_Nov2016.pdf
+$ENDCMP
+#
+$CMP C0603-1.5uF-6.3V-10%-X5R
+D CAP CER 1.5UF 6.3V X5R 0603
+F http://media.digikey.com/pdf/Data%20Sheets/Kemet%20PDFs/X5R_Dielectric_Rev_Nov2016.pdf
+$ENDCMP
+#
+$CMP C0603-1.8uF-6.3V-10%-X5R
+D CAP CER 1.8UF 6.3V X5R 0603
+F http://media.digikey.com/pdf/Data%20Sheets/Kemet%20PDFs/X5R_Dielectric_Rev_Nov2016.pdf
+$ENDCMP
+#
+$CMP C0603-2.7uF-6.3V-10%-X5R
+D CAP CER 2.7UF 6.3V X5R 0603
+F http://media.digikey.com/pdf/Data%20Sheets/Kemet%20PDFs/X5R_Dielectric_Rev_Nov2016.pdf
+$ENDCMP
+#
+$CMP C0603-3.3uF-6.3V-10%-X5R
+D CAP CER 3.3UF 6.3V X5R 0603
+F http://media.digikey.com/pdf/Data%20Sheets/Kemet%20PDFs/X5R_Dielectric_Rev_Nov2016.pdf
+$ENDCMP
